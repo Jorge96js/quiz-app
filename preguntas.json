@@ -1,0 +1,56 @@
+[
+  {
+    "categoria": "Overwatch 2",
+    "pregunta": "¿Qué héroe de rol Tanque fue lanzado oficialmente en febrero de 2026?",
+    "respuesta": "Domina",
+    "incorrecta1": "Mauga",
+    "incorrecta2": "Ramattra",
+    "incorrecta3": "Hazard",
+    "imagen": "https:// placehold.co/600x400?text=Overwatch+New+Tank"
+  },
+  {
+    "categoria": "Cyberpunk 2077",
+    "pregunta": "¿Cómo se llama el bar donde suelen reunirse los mercenarios en Afterlife?",
+    "respuesta": "Afterlife",
+    "incorrecta1": "Lizzie's Bar",
+    "incorrecta2": "El Coyote Cojo",
+    "incorrecta3": "Totentanz",
+    "imagen": "https://placehold.co/600x400?text=Night+City"
+  },
+  {
+    "categoria": "Pokémon",
+    "pregunta": "¿Qué objeto competitivo aumenta la velocidad pero solo permite usar un movimiento?",
+    "respuesta": "Choice Scarf",
+    "incorrecta1": "Focus Sash",
+    "incorrecta2": "Life Orb",
+    "incorrecta3": "Assault Vest",
+    "imagen": "https://placehold.co/600x400?text=Pokemon+Items"
+  },
+  {
+    "categoria": "Anime",
+    "pregunta": "En Evangelion, ¿cómo se llama el sistema operativo orgánico de las unidades EVA?",
+    "respuesta": "MAGI",
+    "incorrecta1": "LCL",
+    "incorrecta2": "AT Field",
+    "incorrecta3": "Dummy Plug",
+    "imagen": "https://placehold.co/600x400?text=Evangelion"
+  },
+  {
+    "categoria": "Fallout 4",
+    "pregunta": "¿Cuál es el nombre del robot que te recibe al regresar a Sanctuary Hills?",
+    "respuesta": "Codsworth",
+    "incorrecta1": "Nick Valentine",
+    "incorrecta2": "Paladin Danse",
+    "incorrecta3": "Dogmeat",
+    "imagen": "https://placehold.co/600x400?text=Fallout+4"
+  },
+  {
+    "categoria": "Anime",
+    "pregunta": "¿Cuál es la recompensa actual de Monkey D. Luffy tras los eventos de Wano?",
+    "respuesta": "3,000,000,000",
+    "incorrecta1": "1,500,000,000",
+    "incorrecta2": "5,000,000,000",
+    "incorrecta3": "2,000,000,000",
+    "imagen": "https://placehold.co/600x400?text=One+Piece"
+  }
+]
